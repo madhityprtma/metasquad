@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "924882233028",
+    "firebase_url": "https://tugas-akhir-flutter-642b7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tugas-akhir-flutter-642b7",
+    "storage_bucket": "tugas-akhir-flutter-642b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924882233028:android:39f08f8e3b3f31c7178b91",
+        "android_client_info": {
+          "package_name": "com.example.petugas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924882233028-3l25r8v5japdl1903amph2s4mmb521an.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.petugas",
+            "certificate_hash": "c3b87728966fdbd7a5a522a75434bb88e56198e8"
+          }
+        },
+        {
+          "client_id": "924882233028-p27jqgd5dpra01v6vphp3paq76u2fe0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE1As1vPPUI3DXyrnQbTUCsZuy72YkHis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924882233028-21bbat5ihtiho59d06mmnofkiqt9t84g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924882233028:android:d4b46ed26c15bc70178b91",
+        "android_client_info": {
+          "package_name": "com.example.tugas_akhir_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924882233028-p27jqgd5dpra01v6vphp3paq76u2fe0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE1As1vPPUI3DXyrnQbTUCsZuy72YkHis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924882233028-21bbat5ihtiho59d06mmnofkiqt9t84g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
